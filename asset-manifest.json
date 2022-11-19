@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mormor/static/css/main.fa4071bd.css",
+    "main.js": "/mormor/static/js/main.df4e5215.js",
+    "index.html": "/mormor/index.html",
+    "main.fa4071bd.css.map": "/mormor/static/css/main.fa4071bd.css.map",
+    "main.df4e5215.js.map": "/mormor/static/js/main.df4e5215.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa4071bd.css",
+    "static/js/main.df4e5215.js"
+  ]
+}
